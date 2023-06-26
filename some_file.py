@@ -4,7 +4,7 @@ import time
 API_URL: str = 'https://api.telegram.org/bot'
 API_CATS_URL: str = 'https://api.thecatapi.com/v1/images/search'
 API_KAP_URL: str = 'https://api.capy.lol/v1/capybara?json=true'
-BOT_TOKEN: str = '6194867012:AAFKn1Ysn_PtUk6kdf23Rw2LpUwzGJxwOFQ'
+BOT_TOKEN: str = ''
 ERROR_TEXT: str = 'Здесь должна была быть картинка с котиком :('
 MAX_COUNTER: int = 100
 
